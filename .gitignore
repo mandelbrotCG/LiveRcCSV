@@ -1,3 +1,7 @@
+# Generated files and directories
+visited_sites.txt
+race_times/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

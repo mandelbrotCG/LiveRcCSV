@@ -1,0 +1,8 @@
+# The name of the user who you want to pull races from
+userName=John Doe
+
+# Start date to pull data from, in format YYYY-MM-DD
+startDate=2026-01-01
+
+# The root URL for the home page of carcar
+baseURL=https://carcarcalgary.liverc.com/
